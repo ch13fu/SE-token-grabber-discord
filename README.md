@@ -36,6 +36,7 @@ Welcome to the Dragon Ball OV Credits Script! This Python script adds credits to
 Edit this line to have a valid email login:
 
 ```(line 47)   sender_email = "your_email@gmail.com"  # Replace with the sender's email address```
+
 ```(line 48)      sender_password = "your_password"  # Replace with the sender's email password```
 
 also replace this line with a valid email to send to can use your sender email.
