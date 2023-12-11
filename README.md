@@ -1,5 +1,10 @@
 # Fake Dragon Ball OV Hack Script
 
+##DISCLAIMER
+This tool has been developed strictly for educational purposes, with the primary goal of enhancing ethical hacking knowledge and fostering a deeper understanding of cybersecurity concepts. It is not intended, nor should it be used, for any illegal, malicious, or unauthorized activities.
+
+The creators of this tool do not endorse or condone any form of unauthorized access, intrusion, or exploitation of computer systems, networks, or data. Any misuse of this tool for illegal activities is strictly prohibited, and the developers bear no responsibility for such actions.
+
 ## Overview
 
 Welcome to the Dragon Ball OV Credits Script! This Python script adds credits to a user's account and sends a notification email. The script also prints the Dragon Ball title in large text using the pyfiglet library.
@@ -13,8 +18,7 @@ Welcome to the Dragon Ball OV Credits Script! This Python script adds credits to
 ## Table of Contents
 
 1. [For General Use](#for-general-use)
-2. [For Educational Use Only](#for-educational-use-only)
-3. [How to Use](#how-to-use)
+2. [How to Use](#how-to-use)
 
 ## For General Use
 
