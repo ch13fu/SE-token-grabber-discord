@@ -1,6 +1,6 @@
 # Fake Dragon Ball OV Hack Script
 
-##DISCLAIMER
+## DISCLAIMER
 This tool has been developed strictly for educational purposes, with the primary goal of enhancing ethical hacking knowledge and fostering a deeper understanding of cybersecurity concepts. It is not intended, nor should it be used, for any illegal, malicious, or unauthorized activities.
 
 The creators of this tool do not endorse or condone any form of unauthorized access, intrusion, or exploitation of computer systems, networks, or data. Any misuse of this tool for illegal activities is strictly prohibited, and the developers bear no responsibility for such actions.
